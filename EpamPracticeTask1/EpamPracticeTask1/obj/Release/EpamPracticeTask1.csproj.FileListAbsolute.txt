@@ -1,0 +1,6 @@
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask1\EpamPracticeTask1\bin\Release\EpamPracticeTask1.exe.config
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask1\EpamPracticeTask1\bin\Release\EpamPracticeTask1.exe
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask1\EpamPracticeTask1\bin\Release\EpamPracticeTask1.pdb
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask1\EpamPracticeTask1\obj\Release\EpamPracticeTask1.csprojResolveAssemblyReference.cache
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask1\EpamPracticeTask1\obj\Release\EpamPracticeTask1.exe
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask1\EpamPracticeTask1\obj\Release\EpamPracticeTask1.pdb
